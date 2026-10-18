@@ -1,0 +1,44 @@
+Всього документів: 202656
+
+--- Крок 1 ---
+{'_id': ObjectId('6ad48e428acda09b192390cb'), 'total_documents': 202656}
+
+--- Крок 2 ---
+{'_id': None, 'max_covered_charges': 2238699.13}
+
+--- Крок 3 ---
+{'_id': '001 - HEART TRANSPLANT OR IMPLANT OF HEART ASSIST SYSTEM W MCC',
+ 'max_covered_charges': 2238699.13}
+{'_id': '003 - ECMO OR TRACH W MV 96+ HRS OR PDX EXC FACE, MOUTH & NECK W MAJ '
+        'O.R.',
+ 'max_covered_charges': 2148005.259}
+{'_id': '004 - TRACH W MV 96+ HRS OR PDX EXC FACE, MOUTH & NECK W/O MAJ O.R.',
+ 'max_covered_charges': 1420372.789}
+{'_id': '005 - LIVER TRANSPLANT W MCC OR INTESTINAL TRANSPLANT',
+ 'max_covered_charges': 1111382.667}
+{'_id': '007 - LUNG TRANSPLANT', 'max_covered_charges': 1057061}
+
+--- Крок 4 ---
+{'_id': '001 - HEART TRANSPLANT OR IMPLANT OF HEART ASSIST SYSTEM W MCC',
+ 'max_covered_charges': 2238699.13}
+{'_id': '003 - ECMO OR TRACH W MV 96+ HRS OR PDX EXC FACE, MOUTH & NECK W MAJ '
+        'O.R.',
+ 'max_covered_charges': 2148005.259}
+{'_id': '004 - TRACH W MV 96+ HRS OR PDX EXC FACE, MOUTH & NECK W/O MAJ O.R.',
+ 'max_covered_charges': 1420372.789}
+{'_id': '005 - LIVER TRANSPLANT W MCC OR INTESTINAL TRANSPLANT',
+ 'max_covered_charges': 1111382.667}
+{'_id': '007 - LUNG TRANSPLANT', 'max_covered_charges': 1057061}
+
+--- Крок 5 ---
+{'_id': '853 - INFECTIOUS & PARASITIC DISEASES W O.R. PROCEDURE W MCC',
+ 'max_covered_charges': 149995.3488}
+{'_id': '027 - CRANIOTOMY & ENDOVASCULAR INTRACRANIAL PROCEDURES W/O CC/MCC',
+ 'max_covered_charges': 149988.6531}
+{'_id': '004 - TRACH W MV 96+ HRS OR PDX EXC FACE, MOUTH & NECK W/O MAJ O.R.',
+ 'max_covered_charges': 149984.5455}
+{'_id': '464 - WND DEBRID & SKN GRFT EXC HAND, FOR MUSCULO-CONN TISS DIS W CC',
+ 'max_covered_charges': 149970.7826}
+{'_id': '469 - MAJOR JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY W '
+        'MCC',
+ 'max_covered_charges': 149966.4}
